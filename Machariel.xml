@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+	<fittings>
+		<fitting name="Machariel - Missions">
+			<description value=""/>
+			<shipType value="Machariel"/>
+			<hardware slot="low slot 0" type="Republic Fleet Gyrostabilizer"/>
+			<hardware slot="low slot 1" type="Republic Fleet Gyrostabilizer"/>
+			<hardware slot="low slot 2" type="Republic Fleet Tracking Enhancer"/>
+			<hardware slot="low slot 3" type="Republic Fleet Tracking Enhancer"/>
+			<hardware slot="low slot 4" type="Damage Control II"/>
+			<hardware slot="low slot 5" type="Nanofiber Internal Structure II"/>
+			<hardware slot="low slot 6" type="Nanofiber Internal Structure II"/>
+			<hardware slot="med slot 0" type="Core X-Type 100MN Microwarpdrive"/>
+			<hardware slot="med slot 1" type="Republic Fleet Warp Disruptor"/>
+			<hardware slot="med slot 2" type="Large Shield Extender II"/>
+			<hardware slot="med slot 3" type="Caldari Navy Adaptive Invulnerability Field"/>
+			<hardware slot="med slot 4" type="Caldari Navy Adaptive Invulnerability Field"/>
+			<hardware slot="hi slot 0" type="800mm Repeating Artillery II"/>
+			<hardware slot="hi slot 1" type="800mm Repeating Artillery II"/>
+			<hardware slot="hi slot 2" type="800mm Repeating Artillery II"/>
+			<hardware slot="hi slot 3" type="800mm Repeating Artillery II"/>
+			<hardware slot="hi slot 4" type="800mm Repeating Artillery II"/>
+			<hardware slot="hi slot 5" type="800mm Repeating Artillery II"/>
+			<hardware slot="hi slot 6" type="800mm Repeating Artillery II"/>
+			<hardware slot="rig slot 0" type="Large Core Defense Field Extender II"/>
+			<hardware slot="rig slot 1" type="Large Core Defense Field Extender II"/>
+			<hardware slot="rig slot 2" type="Large Core Defense Field Extender II"/>
+		</fitting>
+	</fittings>
