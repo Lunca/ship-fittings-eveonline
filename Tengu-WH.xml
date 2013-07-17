@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+	<fittings>
+		<fitting name="Tengu - Ratting">
+			<description value=""/>
+			<shipType value="Tengu"/>
+			<hardware slot="low slot 0" type="Ballistic Control System II"/>
+			<hardware slot="low slot 1" type="Ballistic Control System II"/>
+			<hardware slot="low slot 2" type="Ballistic Control System II"/>
+			<hardware slot="low slot 3" type="Ballistic Control System II"/>
+			<hardware slot="low slot 4" type="True Sansha Power Diagnostic System"/>
+			<hardware slot="med slot 0" type="Gistum C-Type EM Ward Amplifier"/>
+			<hardware slot="med slot 1" type="Adaptive Invulnerability Field II"/>
+			<hardware slot="med slot 2" type="Large F-S9 Regolith Shield Induction"/>
+			<hardware slot="med slot 3" type="Large F-S9 Regolith Shield Induction"/>
+			<hardware slot="med slot 4" type="10MN Afterburner II"/>
+			<hardware slot="hi slot 0" type="Heavy Missile Launcher II"/>
+			<hardware slot="hi slot 1" type="Heavy Missile Launcher II"/>
+			<hardware slot="hi slot 2" type="Heavy Missile Launcher II"/>
+			<hardware slot="hi slot 3" type="Heavy Missile Launcher II"/>
+			<hardware slot="hi slot 4" type="Heavy Missile Launcher II"/>
+			<hardware slot="hi slot 5" type="Large Shield Transporter II"/>
+			<hardware slot="rig slot 0" type="Medium Capacitor Control Circuit II"/>
+			<hardware slot="rig slot 1" type="Medium Capacitor Control Circuit II"/>
+			<hardware slot="rig slot 2" type="Medium Capacitor Control Circuit I"/>
+			<hardware slot="subsystem slot 0" type="Tengu Defensive - Adaptive Shielding"/>
+			<hardware slot="subsystem slot 1" type="Tengu Electronics - CPU Efficiency Gate"/>
+			<hardware slot="subsystem slot 2" type="Tengu Engineering - Capacitor Regeneration Matrix"/>
+			<hardware slot="subsystem slot 3" type="Tengu Offensive - Accelerated Ejection Bay"/>
+			<hardware slot="subsystem slot 4" type="Tengu Propulsion - Fuel Catalyst"/>
+		</fitting>
+		<fitting name="Tengu - RR WH tengu">
+			<description value=""/>
+			<shipType value="Tengu"/>
+			<hardware slot="low slot 0" type="Ballistic Control System II"/>
+			<hardware slot="low slot 1" type="Ballistic Control System II"/>
+			<hardware slot="low slot 2" type="Ballistic Control System II"/>
+			<hardware slot="low slot 3" type="Ballistic Control System II"/>
+			<hardware slot="low slot 4" type="Power Diagnostic System II"/>
+			<hardware slot="med slot 0" type="Pithum C-Type EM Ward Amplifier"/>
+			<hardware slot="med slot 1" type="Adaptive Invulnerability Field II"/>
+			<hardware slot="med slot 2" type="Large F-S9 Regolith Shield Induction"/>
+			<hardware slot="med slot 3" type="Large F-S9 Regolith Shield Induction"/>
+			<hardware slot="med slot 4" type="10MN Afterburner II"/>
+			<hardware slot="hi slot 0" type="Heavy Missile Launcher II"/>
+			<hardware slot="hi slot 1" type="Heavy Missile Launcher II"/>
+			<hardware slot="hi slot 2" type="Heavy Missile Launcher II"/>
+			<hardware slot="hi slot 3" type="Heavy Missile Launcher II"/>
+			<hardware slot="hi slot 4" type="Heavy Missile Launcher II"/>
+			<hardware slot="hi slot 5" type="Large Shield Transporter II"/>
+			<hardware slot="rig slot 0" type="Medium Capacitor Control Circuit II"/>
+			<hardware slot="rig slot 1" type="Medium Capacitor Control Circuit II"/>
+			<hardware slot="rig slot 2" type="Medium Capacitor Control Circuit I"/>
+			<hardware slot="subsystem slot 0" type="Tengu Defensive - Adaptive Shielding"/>
+			<hardware slot="subsystem slot 1" type="Tengu Electronics - CPU Efficiency Gate"/>
+			<hardware slot="subsystem slot 2" type="Tengu Engineering - Capacitor Regeneration Matrix"/>
+			<hardware slot="subsystem slot 3" type="Tengu Offensive - Accelerated Ejection Bay"/>
+			<hardware slot="subsystem slot 4" type="Tengu Propulsion - Fuel Catalyst"/>
+		</fitting>
+	</fittings>
